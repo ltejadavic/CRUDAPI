@@ -1,0 +1,1 @@
+This repository contains a basic CRUD (Create, Read, Update, Delete) API built using Express.js and Axios. The API interacts with the JSONPlaceholder service to perform operations on posts. A separate data module is used to handle data retrieval and manipulation, promoting cleaner code and separation of concerns.
